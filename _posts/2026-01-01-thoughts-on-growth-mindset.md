@@ -13,6 +13,10 @@ Here are my thoughts and reflections on growth mindset resources I've explored.
 
 ## Growth Mindset
 
+### My Understanding
+
+Growth mindset is the belief that abilities and intelligence can be developed through effort, learning, and persistence. Rather than seeing talent as fixed, it views challenges as opportunities to grow, mistakes as valuable feedback, and effort as the path to mastery. The key idea is "yet" — you may not have mastered something yet, but with dedication, you can improve.
+
 ### TED Talk: The Power of Believing That You Can Improve
 - **Speaker**: Carol Dweck
 - **Link**: [TED Talk](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
